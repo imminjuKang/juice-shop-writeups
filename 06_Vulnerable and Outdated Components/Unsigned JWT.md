@@ -11,6 +11,9 @@
   <img src="https://github.com/user-attachments/assets/db59ac0e-a8b6-4519-9900-76243bf7c43c" width="45%" />
 </p>
 
+1-1. 네트워크 탭에서 whoami를 찾아 authorization 부분을 확인한다.
+1-2. JWT 토큰을 디코더에 넣어 사용된 알고리즘과 내용을 확인한다.
+
 2. jwtn3d@juice-sh.op (존재하지 않는 유저) 계정으로 로그인한다.
 
 
